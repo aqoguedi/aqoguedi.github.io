@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aqoguedi.github.io/sitemap_index.aqoguedi
